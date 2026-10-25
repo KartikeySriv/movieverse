@@ -18,12 +18,9 @@ A modern **movie discovery mobile application** built using **Expo (React Native
 ## 🎥 App Demo
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/42af7ef9-bfa3-442c-bc55-553123a7606a
-  " width="28%" controls muted playsinline style="margin-right: 20px;"></video>
-  <video src="https://github.com/user-attachments/assets/1ff07e96-8506-4285-b40d-1e9f1a03f2bb
-  " width="28%" controls muted playsinline style="margin-right: 20px;"></video>
-  <video src="https://github.com/user-attachments/assets/56723151-079b-44eb-b73a-a7a46aadf69c
-  " width="28%" controls muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/42af7ef9-bfa3-442c-bc55-553123a7606a" width="28%" controls muted playsinline style="margin-right: 20px;"></video>
+  <video src="https://github.com/user-attachments/assets/1ff07e96-8506-4285-b40d-1e9f1a03f2bb" width="28%" controls muted playsinline style="margin-right: 20px;"></video>
+  <video src="https://github.com/user-attachments/assets/56723151-079b-44eb-b73a-a7a46aadf69c" width="28%" controls muted playsinline></video>
 </p>
 
 <p align="center">
