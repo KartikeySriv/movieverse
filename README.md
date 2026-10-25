@@ -18,19 +18,18 @@ A modern **movie discovery mobile application** built using **Expo (React Native
 ## 🎥 App Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/47845b29-013e-464a-bae7-eca3e38a6917" width="28%" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/a7978e09-58fd-4edb-a362-67134d014f42" width="28%" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/0a2915d9-a865-417c-914f-fa35aa2cecc1" width="28%" />
+  <img src="public/home.gif" alt="Home Screen" width="28%" style="margin-right: 20px;" />
+  <img src="public/result.gif" alt="Movie Details" width="28%" style="margin-right: 20px;" />
+  <img src="public/search.gif" alt="Search Functionality" width="28%" />
 </p>
 
 <p align="center">
   <b>Home Screen</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Movie Details</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Search Functionality</b>
 </p>
-
 
 ---
 
